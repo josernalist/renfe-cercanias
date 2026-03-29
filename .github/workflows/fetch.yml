@@ -1,0 +1,31 @@
+name: Fetch Cercanías fleet
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [fetch-cercanias]
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch fleet data
+        run: python scripts/fetch_flota.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git commit -m "cercanias $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
