@@ -1,2 +1,3 @@
 timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
 2026-06-10T00:02:08Z,2058X70400C5,70400,C5,0,05443,05441,2026-06-09T05:30:00,05201,05443,E,43.250706,-5.5648093,20,False,1,1
+2026-06-10T00:06:29Z,2058X70400C5,70400,C5,0,05443,05441,2026-06-09T05:30:00,05201,05443,E,43.250706,-5.5648093,20,False,1,1
