@@ -1,0 +1,2 @@
+timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
+2026-06-25T00:02:20Z,4173J36421C1,36421,C1,0,62101,62101,2026-06-26T01:57:00,62101,60911,A,38.224415,-0.7814662,41,False,1,1
