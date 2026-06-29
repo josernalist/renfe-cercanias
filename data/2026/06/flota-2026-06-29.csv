@@ -1,0 +1,2 @@
+timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
+2026-06-29T00:02:35Z,1077L76186C3,76186,C3,1,60105,60200,2026-07-01T01:28:00,60200,60104,S,40.159317,-3.6098835,10,False,2,3
