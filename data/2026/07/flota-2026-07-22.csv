@@ -1,2 +1,3 @@
 timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
 2026-07-22T00:03:32Z,1001X21644C2,21644,C2,-1411,70105,70200,2026-07-23T01:22:00,70200,17000,A,40.644257,-3.1823237,10,False,,1
+2026-07-22T00:07:55Z,1001X21644C2,21644,C2,-1411,70105,70200,2026-07-23T01:22:00,70200,17000,A,40.644257,-3.1823237,10,False,,1
