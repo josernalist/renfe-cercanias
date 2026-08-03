@@ -1,2 +1,3 @@
 timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
 2026-08-03T00:03:41Z,1013L19800C1,19800,C1,-250,17000,98003,2026-08-03T01:44:00,98305,17000,E,40.47102,-3.6825693,10,False,10,2
+2026-08-03T00:07:50Z,1013L19800C1,19800,C1,-250,17000,98003,2026-08-03T01:44:00,98305,17000,E,40.47102,-3.6825693,10,False,10,2
