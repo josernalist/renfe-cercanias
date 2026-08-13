@@ -1,0 +1,2 @@
+timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
+2026-08-13T00:03:56Z,SPECIAL_10_91394C8,91394,C8,1440,70102,70102,2026-08-13T02:01:00,,97201,A,40.454636,-3.4796963,10,False,,2
