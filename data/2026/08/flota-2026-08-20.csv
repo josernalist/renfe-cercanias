@@ -1,0 +1,2 @@
+timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
+2026-08-20T00:04:38Z,1030J20533C4,20533,C4,-1358,18000,18101,2026-08-21T01:42:00,17000,37012,E,40.40654,-3.6895106,10,True,6,1
