@@ -1,2 +1,3 @@
 timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
 2026-09-14T00:04:41Z,1055L20336C4a,20336,C4a,34,17000,17000,2026-09-16T00:54:00,17000,19003,E,40.471325,-3.6833096,10,False,92,92
+2026-09-14T00:09:00Z,1055L20336C4a,20336,C4a,34,17000,17000,2026-09-16T00:54:00,17000,19003,E,40.471325,-3.6833096,10,False,92,92
