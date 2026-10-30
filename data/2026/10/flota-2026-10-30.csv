@@ -1,2 +1,3 @@
 timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
 2026-10-30T03:15:20Z,5102V77502R4,77502,R4,0,78700,78710,2026-10-30T04:33:00,71600,78700,A,41.56993,2.0143688,50,True,1,2
+2026-10-30T03:25:25Z,6102V80716C1,80716,C1,0,11600,11518,2026-10-30T04:42:00,11516,11600,A,43.33877,-1.8007782,61,False,,2
