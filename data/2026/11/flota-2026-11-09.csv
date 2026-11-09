@@ -1,1 +1,2 @@
 timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
+2026-11-09T00:15:30Z,1012L75644C2,75644,C2,-1411,70105,70200,2026-11-09T01:22:00,70200,17000,A,40.56094,-3.2652874,10,False,,1
