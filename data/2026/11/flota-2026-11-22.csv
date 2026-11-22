@@ -1,2 +1,3 @@
 timestamp_utc,tripId,codTren,codLinea,retrasoMin,codEstAct,codEstSig,horaLlegadaSigEst,codEstDest,codEstOrig,porAvanc,latitud,longitud,nucleo,accesible,via,nextVia
 2026-11-22T00:05:48Z,1025D75644C2,75644,C2,-1404,70103,70107,2026-11-22T01:08:00,70200,17000,E,40.489193,-3.3662832,10,False,1,2
+2026-11-22T00:15:28Z,1025D75644C2,75644,C2,-1402,70104,70105,2026-11-22T01:19:00,70200,17000,E,40.53455,-3.2985828,10,False,2,2
